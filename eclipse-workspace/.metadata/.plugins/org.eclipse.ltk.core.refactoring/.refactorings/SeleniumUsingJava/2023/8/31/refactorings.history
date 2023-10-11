@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;assignmentMKT&apos; to &apos;assignmentMKT/src&apos;&#x0A;- Original project: &apos;SeleniumUsingJava&apos;&#x0A;- Destination element: &apos;assignmentMKT/src&apos;&#x0A;- Original element: &apos;SeleniumUsingJava/src/assignmentMKT&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=assignmentMKT/src" element1="/src&lt;assignmentMKT" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1691038981355" version="1.0"/>
+</session>

@@ -1,0 +1,29 @@
+package assignmentMKT;
+
+public class AssignmentConditionalstatement {
+
+	public static void main(String[] args) {
+
+
+		int a=50;
+		int b=40;
+
+		if (a>b)
+
+		{  if (a>100)
+
+
+			System.out.println("a is greater than b and greater than 100");
+		}
+
+		else if (a<b)
+
+		{System.out.println("b is greater than a");}
+
+		else if(a==b)
+
+		{System.out.println("a is equal to  b");}
+
+	}
+
+}

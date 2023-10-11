@@ -1,0 +1,21 @@
+package firstPackage;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.safari.SafariDriver;
+
+public class LaunchChromeBrowser {
+
+	public static void main(String[] args) {
+		
+		
+		SafariDriver cd= new SafariDriver();
+		cd.get("https://www.google.co.in");
+		String title=cd.getTitle();
+		System.out.println("Title of my webpage is "+ title);
+		cd.close();
+
+		
+
+	}
+
+}

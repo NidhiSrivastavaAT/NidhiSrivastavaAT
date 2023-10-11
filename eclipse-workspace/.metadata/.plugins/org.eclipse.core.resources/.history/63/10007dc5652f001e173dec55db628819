@@ -1,0 +1,38 @@
+package assignmentMKT;
+
+public class AssignmentRamSalary {
+	
+	
+	
+	public static void ramsalary()
+	{
+		int msalary=10000;
+		int asalary=msalary*12; 
+		 System.out.println("Ram's Salary is "+asalary);
+		
+	}
+	
+	
+	public static void ramdonation()
+	
+	{
+		
+		        
+		int msalary=10000;
+		int asalary=msalary*12; 
+		 
+		 double dsalary = asalary*0.1;
+		 System.out.println("Donation by Ram is "+dsalary);
+		 
+		
+		
+		
+	}
+	
+	    public static void main(String[] args) {
+	        //System.out.println("Ram's Salary");
+	    	ramsalary();
+	    	ramdonation();
+	    }
+	
+}

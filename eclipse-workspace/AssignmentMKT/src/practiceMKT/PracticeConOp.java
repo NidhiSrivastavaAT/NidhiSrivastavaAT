@@ -1,0 +1,44 @@
+package practiceMKT;
+
+public class PracticeConOp {
+
+	public static void main(String[] args) {
+
+		int a = 10;
+
+		int b = 20;
+
+		if (a == 1 && b == 2)
+
+		{
+
+			System.out.println("1");
+
+		}
+
+		if (a == 1 || b == 2)
+
+		{
+
+			System.out.println("2");
+
+		}
+		if (!(a == 1 && b == 2))
+
+		{
+
+			System.out.println("3");
+
+		}
+
+		if (!(a == 1 || b == 2))
+
+		{
+
+			System.out.println("4");
+
+		}
+
+	}
+
+}

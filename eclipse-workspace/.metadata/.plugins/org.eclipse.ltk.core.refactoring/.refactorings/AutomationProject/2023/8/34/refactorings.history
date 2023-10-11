@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;firstPackage&apos; to &apos;selUsingJava&apos;&#x0A;- Original project: &apos;AutomationProject&apos;&#x0A;- Original element: &apos;AutomationProject/src/firstPackage&apos;&#x0A;- Renamed element: &apos;AutomationProject/src/selUsingJava&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;firstPackage&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;firstPackage" name="selUsingJava" qualified="false" references="true" stamp="1692717976659" textual="false" version="1.0"/>
+</session>

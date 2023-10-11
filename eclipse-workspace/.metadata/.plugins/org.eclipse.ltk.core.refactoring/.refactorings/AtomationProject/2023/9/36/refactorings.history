@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ClassTC1.java&apos; to &apos;AtomationProject/src/testNG_package&apos;&#x0A;- Original project: &apos;AtomationProject&apos;&#x0A;- Destination element: &apos;AtomationProject/src/testNG_package&apos;&#x0A;- Original element: &apos;ClassTC1.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;testNG_package" element1="/src&lt;{ClassTC1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1694145022662" units="1" version="1.0"/>
+</session>

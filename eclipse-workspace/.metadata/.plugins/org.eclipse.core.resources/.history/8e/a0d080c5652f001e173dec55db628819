@@ -1,0 +1,38 @@
+package assignmentMKT;
+
+public class AssignemntMethodOverloading {
+	
+	
+	public static void vehicles(int a)
+	{
+		System.out.println("a"+a);
+	
+	}public static void vehicles(int w1,String w3 ,char c)
+	{
+		System.out.println("w1"+w1);
+		System.out.println("w2==="+c);
+	
+	}public static void vehicles(int w1, int w2, char w3)
+	{
+		System.out.println("w1"+w1);
+		System.out.println("w2"+w2);
+		System.out.println("w3"+w3);
+	
+	}
+	public static void vehicles(int w1, String w2)
+	{
+		System.out.println("w1"+w1);
+		System.out.println("w2==="+w2);
+	
+	}
+	public static void main(String[] args) {
+	
+		//vehicles(3,7,'V');
+		vehicles(3);
+		System.out.println("call done");
+		
+		
+
+	}
+
+}
